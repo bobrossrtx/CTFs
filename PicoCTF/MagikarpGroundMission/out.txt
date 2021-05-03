@@ -1,0 +1,12 @@
+ssh ctf-player@ip
+password - ctf-player:481e7b14
+
+instructions-to-2of3.txt = Next, go to the root of all things, more succinctly `/`
+flag 1/3 = picoCTF{xxsh_
+
+instructions-to-3of3.txt = Lastly, ctf-player, go home... more succinctly `~`
+flag 2/3 = 0ut_0f_\/\/4t3r_
+
+flag 3/3 = 1118a9a4}
+
+flag = picoCTF{xxsh_0ut_0f_\/\/4t3r_1118a9a4}
